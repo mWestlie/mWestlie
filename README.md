@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mWestlie
 - 👀 I’m interested in building websites, web-apps
-- 🌱 I’m currently learning web-development
+- 🌱 I’m currently learning Swift & Javascript
 - 📫 How to reach me: magnus.westlie@icloud.com
 
 <!---
